@@ -8,7 +8,7 @@ This project simulates a vulnerable cloud infrastructure within Microsoft Azure 
 
 The goal of this lab is to build and monitor a security-focused Azure environment using Microsoft Sentinel. It demonstrates how to ingest and correlate security logs from a Windows virtual machine, visualize global attack patterns, and pinpoint threat origins using custom watchlists and KQL queries.
 
-![image alt]()
+![image alt](https://github.com/KennethyLiang/Honeypot-Attack-Map/blob/5dce31979dd4b07581c6d288f05415db6c73891c/Project%20Layout.png)
 
 ## Architecture & Setup
 
