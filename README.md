@@ -45,3 +45,5 @@ This project provides hands-on experience in:
 - Detecting and analyzing malicious activity in real-time.
 - Mapping attack vectors to geographic origins.
 - Simulating vulnerable infrastructure for learning and experimentation.
+
+## World map of incoming attacks after 6 hours
