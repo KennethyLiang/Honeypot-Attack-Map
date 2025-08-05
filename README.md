@@ -47,3 +47,4 @@ This project provides hands-on experience in:
 - Simulating vulnerable infrastructure for learning and experimentation.
 
 ## World map of incoming attacks after 6 hours
+![image alt](https://github.com/KennethyLiang/Honeypot-Attack-Map/blob/7fabbc3a0f046a13d522687febeaeacea3f93d18/Attack%20Map.png)
