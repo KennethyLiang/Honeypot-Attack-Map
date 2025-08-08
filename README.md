@@ -4,7 +4,7 @@
 
 <b>This project simulates a vulnerable cloud infrastructure within Microsoft Azure and showcases how to use Sentinel and Log Analytics for real-time threat detection and geolocation analysis.</b>
 
-The goal of this lab is to build and monitor a security-focused Azure environment using Microsoft Sentinel. It demonstrates how to ingest and correlate security logs from a Windows virtual machine, visualize global attack patterns, and pinpoint threat origins using custom watchlists and KQL queries.
+The goal of this lab is to build and monitor a security-focused Azure environment using Microsoft Sentinel. It demonstrates how to ingest and correlate security logs from a Windows virtual machine, visualize global attack patterns, and pinpoint threat origins using custom watchlists and KQL queries. We will utilize a vulnerable Windows 10 virtual machine acting as a honey pot. Adversaries all around the world will then attempt live attacks by brute forcing via RDP connection, which will be logged by our Azure Monitoring Agent(AMA), and forwarded to a central log analytics workspace. Last, we will integrate this with Microsoft Sentinel to enable SIEM capabilities to conduct threat analysis. To provide a more visual representation, a csv of 50,000 geo-IP records are imported to create an enriched correlation with real-time failed logon attempts on the virtual machine. 
 
 ![image alt](https://github.com/KennethyLiang/Honeypot-Attack-Map/blob/5dce31979dd4b07581c6d288f05415db6c73891c/Project%20Layout.png)
 
