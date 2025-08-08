@@ -2,9 +2,7 @@
 
 ## Description
 
-This project simulates a vulnerable cloud infrastructure within Microsoft Azure and showcases how to use Sentinel and Log Analytics for real-time threat detection and geolocation analysis.
-
-## Overview
+<b>This project simulates a vulnerable cloud infrastructure within Microsoft Azure and showcases how to use Sentinel and Log Analytics for real-time threat detection and geolocation analysis.</b>
 
 The goal of this lab is to build and monitor a security-focused Azure environment using Microsoft Sentinel. It demonstrates how to ingest and correlate security logs from a Windows virtual machine, visualize global attack patterns, and pinpoint threat origins using custom watchlists and KQL queries.
 
