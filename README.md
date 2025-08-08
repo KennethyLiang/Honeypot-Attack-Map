@@ -47,8 +47,11 @@ This project provides hands-on experience in:
 - Mapping attack vectors to geographic origins.
 - Simulating vulnerable infrastructure for learning and experimentation.
   
-## Attacks originating from Russia; KQL query
+## Attacks originating from Russia; KQL query            
 ![image alt](https://github.com/KennethyLiang/Honeypot-Attack-Map/blob/45055e07e2ecedb3ba4a6341f6d72fe68e88b68f/KQL%20Query%20Log.png)
+
+## Cisco Talos IP Reputation Check
+![image alt](https://github.com/KennethyLiang/Honeypot-Attack-Map/blob/e48b3cc8f6ae4b25d350acea12b02e8faaae57ec/Cisco%20Talos%20Attacker%20IP%20Reputation%20Check.png)
 
 ## World map of incoming attacks after 6 hours
 ![image alt](https://github.com/KennethyLiang/Honeypot-Attack-Map/blob/7fabbc3a0f046a13d522687febeaeacea3f93d18/Attack%20Map.png)
